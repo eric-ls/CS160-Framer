@@ -92,16 +92,16 @@ window.__imported__["watch/layers.json.js"] = [
           "frame" : {
             "y" : 82,
             "x" : 41,
-            "width" : 212,
-            "height" : 103
+            "width" : 213,
+            "height" : 106
           }
         },
         "imageType" : "png",
         "layerFrame" : {
           "y" : 82,
           "x" : 41,
-          "width" : 212,
-          "height" : 103
+          "width" : 213,
+          "height" : 106
         },
         "name" : "lines"
       },
